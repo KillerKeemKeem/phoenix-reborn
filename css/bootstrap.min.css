@@ -3116,3 +3116,5 @@
     -webkit-animation-name: slideOutUp;
     animation-name: slideOutUp
 }
+
+.waves-effect,a{-webkit-tap-highlight-color:transparent}
