@@ -16,12 +16,12 @@ body:before {
  position: fixed;
  left: 0; right: 0;
  top: 0; bottom: 0;
- background: linear-gradient(15deg, rgba(42, 27, 161, 0.2), rgba(255, 10, 20, 0.26) 90%);
+ background: linear-gradient(15deg, rgba(42, 27, 161, 0.2), rgba(255, 10, 20, 0.16) 90%);
  z-index: -99999;
 }
 
 .top-nav-collapse {
-  background-color: #4B0082;}
+  background-color: #0b081d;}
 
 .navbar:not(.top-nav-collapse) {background: #0b081d ;}
 
