@@ -3,7 +3,7 @@
 }
 
 body {
-  background:  url('../img/background.png');
+  background:  url('../img/space.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -23,7 +23,7 @@ body:before {
 .top-nav-collapse {
   background-color: #0b081d;}
 
-.navbar:not(.top-nav-collapse) {background: #0b081d ;}
+.navbar:not(.top-nav-collapse) {background: #320b0d	 ;}
 
 #intro .h6 {
   font-weight: 350;
