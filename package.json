@@ -37,6 +37,6 @@
     "url": "https://github.com/Rudloff/alltube.git"
   },
   "scripts": {
-    "postinstall": "grunt"
+    "postinstall": "cd alltube && grunt"
   }
 }
